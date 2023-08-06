@@ -14,9 +14,9 @@
 
 <p>
 :book: Suka baca buku? Aku juga! <br>
-:laptop: Senang untuk belajar programming. <br>
+:computer: Senang untuk belajar programming. <br>
 :rocket: Tertarik dengan astronomi. <br>
 :speech_balloon: Langsung kontak saja kalau ingin mengobrol! :point_up:
 </p>
 
-<h2><i>Stay frosty, y'all.</i></h2>
+<h2><i>Tetap semangat!</i></h2>
