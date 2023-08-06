@@ -14,7 +14,8 @@
 
 <p>
 :book: Suka baca buku? Aku juga! <br>
-:rocket: Tertarik dengan astronomi dan astrofisika. <br>
+:laptop: Senang untuk belajar programming. <br>
+:rocket: Tertarik dengan astronomi. <br>
 :speech_balloon: Langsung kontak saja kalau ingin mengobrol! :point_up:
 </p>
 
