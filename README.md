@@ -1,5 +1,3 @@
-<h1 align="center">Halo, aku Ra'if!</h1>
-
 <p align="center">
     <a href="www.instagram.com/lotsadelight/">Instagram | </a>
     <a href="https://www.linkedin.com/in/mraifalkautsar/">LinkedIn | </a>
@@ -14,6 +12,5 @@
 
 <p>
 Just a computer science student who oftens forget to document his code.
+Love seeing green on my squares.
 </p>
-
-<h2><i>I love seeing green on my squares</i></h2>
