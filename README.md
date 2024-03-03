@@ -13,10 +13,7 @@
 </p>
 
 <p>
-:book: Suka baca buku? Aku juga! <br>
-:computer: Senang untuk belajar programming. <br>
-:rocket: Tertarik dengan astronomi. <br>
-:speech_balloon: Langsung kontak saja kalau ingin mengobrol! :point_up:
+Just a computer science student who oftens forget to document his code.
 </p>
 
-<h2><i>Tetap semangat!</i></h2>
+<h2><i>I love seeing green on my squares</i></h2>
