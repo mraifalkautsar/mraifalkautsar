@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://www.instagram.com/lotsadelight/">Instagram | </a>
+    <a href="https://www.instagram.com/mraifalkautsar/">Instagram | </a>
     <a href="https://www.linkedin.com/in/mraifalkautsar/">LinkedIn | </a>
     <a href="https://twitter.com/lotsadelight">Twitter</a>
 </p>
