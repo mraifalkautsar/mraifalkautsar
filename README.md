@@ -1,4 +1,11 @@
 <p align="center">
+    <b>Fields of Interest: <br/> </b>
+    Software Engineering (not that good) <br/>
+    Graphics Programming (doesn't know much about it) <br/>
+    <i>and</i> Game Design (barely any sense of fun) <br/>
+</p>
+
+<p align="center">
     <a href="https://www.instagram.com/mraifalkautsar/">Instagram | </a>
     <a href="https://www.linkedin.com/in/mraifalkautsar/">LinkedIn | </a>
     <a href="https://twitter.com/lotsadelight">Twitter</a>
