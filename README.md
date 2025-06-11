@@ -2,7 +2,7 @@
     <b>Fields of Interest: <br/> </b>
     Software Engineering (not that good) <br/>
     Graphics Programming (doesn't know much about it) <br/>
-    <i>and</i> Game Design (barely any sense of fun) <br/>
+    <i>and</i> Game Development (barely any sense of fun) <br/>
 </p>
 
 <p align="center">
