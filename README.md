@@ -1,8 +1,8 @@
 <p align="center">
     <b>Fields of Interest: <br/> </b>
-    Software Engineering (not that good) <br/>
-    Graphics Programming (doesn't know much about it) <br/>
-    <i>and</i> Game Development (barely any sense of fun) <br/>
+    Software Engineering <i>(wants to get deeper at backend)</i> <br/>
+    Graphics Programming <i>(doesn't know much about it)</i> <br/>
+    <i>and</i> Game Development <i>(have barely any sense of fun)</i> <br/>
 </p>
 
 <p align="center">
