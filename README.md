@@ -1,8 +1,8 @@
 <p align="center">
     <b>Fields of Interest: <br/> </b>
-    Software Engineering <i>(mid dev)</i> <br/>
-    Graphics Programming <i>(doesn't know much about it)</i> <br/>
-    <i>and</i> Game Development <i>(have barely any sense of fun)</i> <br/>
+    Software Engineering<br/>
+    Cybersecurity<br/>
+    <i>and</i> Game Development  <br/>
 </p>
 
 <p align="center">
