@@ -1,8 +1,6 @@
 <p align="center">
     <b>Fields of Interest: <br/> </b>
     Software Engineering<br/>
-    Cybersecurity<br/>
-    <i>and</i> Game Development  <br/>
 </p>
 
 <p align="center">
